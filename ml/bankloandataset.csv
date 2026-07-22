@@ -1,0 +1,11 @@
+Age,Income,Credit_Score,Loan_Amount,Employment,Loan_Approved
+25,30000,650,200000,Salaried,Yes
+42,75000,780,500000,Business,Yes
+31,25000,590,300000,Self-employed,No
+,45000,720,250000,,Yes
+50,90000,810,700000,Business,Yes
+36,40000,610,350000,Salaried,No
+29,55000,740,300000,Self-employed,Yes
+46,35000,580,450000,Salaried,No
+33,68000,760,400000,Business,Yes
+27,22000,560,180000,Salaried,No
